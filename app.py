@@ -610,7 +610,7 @@ if uploaded_file:
         st.download_button(label="📥 Download Cleaned Data (CSV)", data=csv, file_name="cleaned_dataset.csv", mime="text/csv")
 else:
     st.info("👋 Welcome! Please upload a CSV or XLSX file to get started.")
-    st.image("https://images.unsplash.com/photo-1551288049-bb8c803ef732?auto=format&fit=crop&w=1350&q=80", caption="Professional Data Analytics Dashboard")
+    st.image("https://imgs.search.brave.com/osQStUYtm_ZhDc8hAUB9lEEqjoA8WCXO-k4h70PrOXA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc3RhcnR1cHRh/bGt5LmNvbS8yMDIx/LzAzL2NvZGluZy1u/aW5qYXMtc3RhcnR1/cHRhbGt5LTEuanBn", caption="DataClean Pro - Powered by Coding Ninjas")
 
 st.markdown("---")
 st.markdown("""
