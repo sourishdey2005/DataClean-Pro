@@ -234,7 +234,7 @@ with st.sidebar:
 # --- Main Dashboard ---
 c1, c2 = st.columns([1, 6])
 with c1:
-    st.image("https://instagram.fbbi2-1.fna.fbcdn.net/v/t51.2885-19/465192075_612466878171669_7035616586692603589_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbbi2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QGjec8JZH-8m5KEygJ8_h8wW69mzq2cpRyU5IKtH9j6I1GauHF1QTVZa070JYN_6M3TKIHThuDNW5SnEjqEZiru&_nc_ohc=Cep-8QSAYqQQ7kNvwEeAXMj&_nc_gid=tycZdrMTrrb2w0hQp1X8oQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_Afuz_Ci8iI8xVHQeOIuEwRNwyEFOObSLIMYNBA5oPQ34zw&oe=69A991C6&_nc_sid=22de04", width=100)
+    st.image("https://imgs.search.brave.com/osQStUYtm_ZhDc8hAUB9lEEqjoA8WCXO-k4h70PrOXA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc3RhcnR1cHRh/bGt5LmNvbS8yMDIx/LzAzL2NvZGluZy1u/aW5qYXMtc3RhcnR1/cHRhbGt5LTEuanBn", width=100)
 with c2:
     st.title("🚀 DataClean Pro")
     st.markdown("Advanced Preprocessing & Insight Engine")
